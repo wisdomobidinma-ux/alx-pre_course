@@ -1,3 +1,3 @@
 my first readme
-up_to_date
+echo "up_to_date
 
